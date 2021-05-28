@@ -20,7 +20,7 @@ Skills: JAVA / C / C# / HTML / Javascript / GML / Python / Unity3D / Scratch / A
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rachelquijano)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rachel-quijano-a99a62190//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rachelquijanovizoso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/quijano_rachel//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/RachelQuijanoV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC03VJe2LCSbT4QHz787GaWw)  
 
-[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelquijano)]
+[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelquijano&show_icons=true&theme=tokyonight))]
 
 <p align="center"> 
   Visitor count<br>
