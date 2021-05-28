@@ -1,4 +1,4 @@
-### Hi, thanks for checking out my GitHub profile! 👋 My name is [Rachel](https://www.linkedin.com/in/rachelquijano/)
+### Hi, thanks for checking out my GitHub profile! My name is [Rachel](https://www.linkedin.com/in/rachelquijano/) 👋 
 
 #### Aspiring Software Developer
 ![Aspiring Software Developer](https://cdn.cp.adobe.io/content/2/dcx/f14eea89-4fe9-43a7-946b-82260c5d25c9/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200)
