@@ -12,7 +12,7 @@ I am a passionate software developer from Miami, FL. I am a developer because of
 
 ##
 - 🔭 I’m currently working on expanding my project list. 
-- 🌱 I’m currently learning computer architecture, simulations & modeling. 
+- 🌱 I’m currently learning computer architecture, simulations & modeling, and database management. 
 - 👯 I’m looking to collaborate on any kind of project from which I can learn and grow. Feel free to reach out to me!
 - 🤔 I’m looking for help with preparing for software developer interviews. 
 - 💬 Ask me about my goals or interests and I will be happy to share. 
