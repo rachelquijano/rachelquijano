@@ -6,8 +6,8 @@
 I am a passionate software developer from Miami, FL. I am a developer because of my desire to express, create, and better our society. As a developer, I gain the ability to enhance people’s lifestyles. From creating small apps that improve daily routine, to working on revolutionary technology such as artificial intelligence and medical equipment. Technology is all around me, and the options are endless. Someday, I hope to work at a company who shares my goal and ambition to innovate towards our future. I seek to learn the mind of an innovator, the skills of a technician, but most importantly, to broaden my knowledge each day. My goal will be to create new technology with the skills I have learned and share them with the world. I aspire to switch my means from being a student who requests assistance, to being a role model to others. I would also like to advocate for women on their journey through the tech field and close the programmer gender gap. In turn, I would like to begin as a developer, and become much more than the lines of code that I can write.
 
 ## Skills and Experience:
-⌨️ JAVA / C / C# / HTML / Javascript / GML / Python /
-🎮 Unity3D / Scratch / 
+⌨️ JAVA / C / C# / HTML / Javascript / GML / Python
+🎮 Unity3D / Scratch
 🖌️ Adobe Creative Cloud (Adobe Certified Associate: Photoshop, Illustrator, Animate) / Vegas Pro
 
 - 🔭 I’m currently working on expanding my project list. 
