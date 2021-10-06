@@ -1,7 +1,7 @@
 ### Hi, thanks for checking out my GitHub profile! My name is [Rachel](https://www.linkedin.com/in/rachelquijano/) 👋 
 
 #### Aspiring Software Developer
-![Aspiring Software Developer](https://cdn.cp.adobe.io/content/2/dcx/f14eea89-4fe9-43a7-946b-82260c5d25c9/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200)
+![Aspiring Software Developer](https://i.imgur.com/D666657.png)
 
 Third year Florida International University Honors College student. Pursuing a Computer Science Bachelor's Degree. I am a passionate software developer from Miami, FL. I am a developer because of my desire to express, create, and better our society. As a developer, I gain the ability to enhance people’s lifestyles. From creating small apps that improve daily routine, to working on revolutionary technology such as artificial intelligence and medical equipment. Technology is all around me, and the options are endless. I hope to work at a company who shares my goal and ambition to innovate towards our future.
 
