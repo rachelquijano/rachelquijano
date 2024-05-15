@@ -3,7 +3,7 @@
 #### Aspiring Software Developer
 ![Aspiring Software Developer](https://i.imgur.com/D666657.png)
 
-Third year Florida International University Honors College student. Pursuing a Computer Science Bachelor's Degree. I am a passionate software developer from Miami, FL. I am a developer because of my desire to express, create, and better our society. As a developer, I gain the ability to enhance people’s lifestyles. From creating small apps that improve daily routine, to working on revolutionary technology such as artificial intelligence and medical equipment. Technology is all around me, and the options are endless. I hope to work at a company who shares my goal and ambition to innovate towards our future.
+Software engineer @ Visa Inc.
 
 ## Skills and Experience:
 ⌨️ JAVA / C / C# / HTML / Javascript / GML / Python / .NET Core / Flutter
