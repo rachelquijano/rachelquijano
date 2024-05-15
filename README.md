@@ -10,9 +10,9 @@
 
 ##
 - 🔭 I’m currently working on expanding my project list. 
-- 🌱 I’m currently learning android development. 
+- 🌱 I’m currently learning next.js. 
 - 👯 I’m looking to collaborate on any kind of project from which I can learn and grow. Feel free to reach out to me!
-- 🤔 I’m looking for help with preparing for software developer interviews. 
+- 🤔 I’m looking for help with flutter development. 
 - 💬 Ask me about my goals or interests and I will be happy to share. 
 - 📫 How to reach me: LinkedIn, Twitter, or Instagram. Check my links below!
 - 😄 Pronouns: She/Her 
