@@ -1,9 +1,7 @@
 ### Hi, thanks for checking out my GitHub profile! My name is [Rachel](https://www.linkedin.com/in/rachelquijano/) 👋 
 
-#### Aspiring Software Developer
+#### Software engineer @ Visa Inc.
 ![Aspiring Software Developer](https://i.imgur.com/D666657.png)
-
-Software engineer @ Visa Inc.
 
 ## Skills and Experience:
 ⌨️ JAVA / C / C# / HTML / Javascript / GML / Python / .NET Core / Flutter
